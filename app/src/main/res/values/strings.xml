@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MrFox</string>
+    <string name="texto1">El libro es un formato de presentación de textos e imágenes. Aunque los primeros libros tenían otras formas (por lo general la de rollo), la forma común del libro es hoy la de códice; es decir, un conjunto de hojas (de papel u otras materias similares, como el pergamino) unidas por el lomo de algún modo (siendo el más común la encuadernación). También se llama «libro» a la imagen digital de un libro (véase libro digital), aunque carezca de papel y encuadernación.Las partes del libro a las que se refiere este artículo se pueden aplicar en general a todo tipo de libros.</string>
+    <string name="texto2">MrFox</string>
+</resources>
